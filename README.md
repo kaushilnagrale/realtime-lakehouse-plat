@@ -106,7 +106,6 @@ realtime-lakehouse-platform/
 └── Makefile                    # Common development commands
 ```
 
-## 🚀 Quick Start
 
 ### Prerequisites
 - Python 3.10+
